@@ -16,7 +16,7 @@
 	> const int nodes_count = 100000;
 
 Скомпилируйте приложение, находясь в директории *src*:
-`g++ -g3 utils/benchmark.cpp -o benchmark`
+`g++ -03 utils/benchmark.cpp -o benchmark`
 # Инструкция по запуску приложения
 Запустите сгенерированный исполняемый файл:
 `./benchmark`
